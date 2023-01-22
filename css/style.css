@@ -1,0 +1,12 @@
+@import 'fonts.css';
+@import 'reset.css';
+@import 'header.css';
+@import 'service.css';
+@import 'portfolio.css';
+@import 'footer.css';
+
+.container{
+    max-width: 1230px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
